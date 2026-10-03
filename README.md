@@ -225,5 +225,5 @@ Edit `config.js` to change app-wide defaults:
 
 **Uzair Majeed** — BS Software Engineering  
 FAST NUCES · Spring 2026 · Section SE-7A  
-Registration No.: 23I-3063  
+Registration No.: 23I-3063.  
 Course: Software for Mobile Devices (SMD)
