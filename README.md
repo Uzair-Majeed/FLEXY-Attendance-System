@@ -5,6 +5,12 @@ A **React Native** student utility app built with **Expo** that helps university
 
 ---
 
+## 🎬 Demo
+
+![FLEXY App Walkthrough Demo](assets/Demo-Video.gif)
+
+---
+
 ## 📌 Proposed Solution
 
 The goal was to build a lightweight, self-contained student dashboard app that runs on both **Android** and **Web** using a single codebase. Since no database is required, all state lives in JavaScript arrays and objects in memory, seeded from `data/initialData.js`. A single `theme.js` file defines all design tokens (colors, spacing, typography, radius) so every screen and component shares a consistent dark, sharp visual style.
@@ -63,6 +69,9 @@ Assignment_01/
 ├── config.js                # App-wide constants (thresholds, urgency days, status maps)
 ├── index.js                 # Expo entry point
 ├── app.json                 # Expo app configuration
+│
+├── assets/
+│   └── Demo-Video.gif       # Walkthrough animation demo of the application
 │
 ├── data/
 │   └── initialData.js       # Hardcoded seed data: student profile, courses, tasks
